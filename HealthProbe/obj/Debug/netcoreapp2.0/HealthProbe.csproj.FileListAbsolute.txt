@@ -1,0 +1,10 @@
+/Users/razi/Projects/HealthProbe/HealthProbe/bin/Debug/netcoreapp2.0/HealthProbe.deps.json
+/Users/razi/Projects/HealthProbe/HealthProbe/bin/Debug/netcoreapp2.0/HealthProbe.runtimeconfig.json
+/Users/razi/Projects/HealthProbe/HealthProbe/bin/Debug/netcoreapp2.0/HealthProbe.runtimeconfig.dev.json
+/Users/razi/Projects/HealthProbe/HealthProbe/bin/Debug/netcoreapp2.0/HealthProbe.dll
+/Users/razi/Projects/HealthProbe/HealthProbe/bin/Debug/netcoreapp2.0/HealthProbe.pdb
+/Users/razi/Projects/HealthProbe/HealthProbe/obj/Debug/netcoreapp2.0/HealthProbe.csproj.CoreCompileInputs.cache
+/Users/razi/Projects/HealthProbe/HealthProbe/obj/Debug/netcoreapp2.0/HealthProbe.AssemblyInfoInputs.cache
+/Users/razi/Projects/HealthProbe/HealthProbe/obj/Debug/netcoreapp2.0/HealthProbe.AssemblyInfo.cs
+/Users/razi/Projects/HealthProbe/HealthProbe/obj/Debug/netcoreapp2.0/HealthProbe.dll
+/Users/razi/Projects/HealthProbe/HealthProbe/obj/Debug/netcoreapp2.0/HealthProbe.pdb

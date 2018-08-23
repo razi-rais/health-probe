@@ -1,0 +1,5 @@
+/Users/razi/Projects/HealthProbe/HealthProbe
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=HealthProbe
+--content-root=/Users/razi/Projects/HealthProbe/HealthProbe
+--file=

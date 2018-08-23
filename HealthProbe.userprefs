@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{01B7E76B-D60B-48E2-BE7F-2FD7611E2E47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HealthProbe/healthprobe.yaml">
+    <Files>
+      <File FileName="HealthProbe/Controllers/ValuesController.cs" Line="21" Column="9" />
+      <File FileName="HealthProbe/appsettings.json" Line="1" Column="1" />
+      <File FileName="HealthProbe/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="HealthProbe/Program.cs" Line="1" Column="1" />
+      <File FileName="HealthProbe/Startup.cs" Line="1" Column="1" />
+      <File FileName="HealthProbe/healthprobe.yaml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HealthProbe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
