@@ -1,19 +1,19 @@
-﻿apiVersion: v1
+apiVersion: v1
 kind: Pod
 metadata:
   labels:
-    type: liveness
-  name: liveness-probe
+    test: readiness
+  name: readiness-http
 spec:
   containers:
-  - name: liveness
-    image: rbinrais/healthprobe:1.0
-    livenessProbe:
+  - name: healthprobe
+    image: rbinrais/healthprobe
+    readinessProbe:
       httpGet:
         path: /api/healthcheck
         port: 80
         httpHeaders:
         - name: X-Custom-Header
           value: NotUsedInThisExample
-      initialDelaySeconds: 15
-      periodSeconds: 3
+      initialDelaySeconds: 5
+      periodSeconds: 5

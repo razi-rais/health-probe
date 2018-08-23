@@ -14,7 +14,7 @@ namespace HealthProbe.Controllers
         public IActionResult Get()
         {
             counter++;
-            if (counter == 3)
+            if (counter > 3)
             {
                 return StatusCode(500);
     
