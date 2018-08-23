@@ -2,7 +2,7 @@
 kind: Pod
 metadata:
   labels:
-    type: liveness
+    probe: liveness
   name: liveness-probe
 spec:
   containers:
